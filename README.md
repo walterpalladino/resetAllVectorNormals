@@ -13,4 +13,8 @@ Notes:
 * Will affect only Meshes
 * Will recalculate ouside all faces
 * Will reset normals
+* Specially usefull on a workflow in combination with [applyMirrorAndSeparate][1] and [parentToNearestBone][2]
 
+
+[1]: https://github.com/walterpalladino/applyMirrorAndSeparate
+[2]: https://github.com/g3ntile/parentToNearestBone
